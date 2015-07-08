@@ -10,7 +10,7 @@
     "test": "gulp build",
     "watch": "gulp watch"
   },
-  "author": "mizumi",
+  "author": "ba0918",
   "license": "MIT",
   "devDependencies": {
     "coffee-script": "^1.9.3",
