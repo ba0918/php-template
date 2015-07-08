@@ -1,0 +1,21 @@
+{
+  "name": "php-project-template",
+  "version": "0.0.1",
+  "description": "this project is php project boilerplate.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp build",
+    "watch": "gulp watch"
+  },
+  "author": "mizumi",
+  "license": "MIT",
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-shell": "^0.4.2"
+  }
+}

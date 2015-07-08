@@ -1,0 +1,8 @@
+.idea
+*.iml
+build
+vendor
+composer.phar
+composer.lock
+node_modules
+*.log
