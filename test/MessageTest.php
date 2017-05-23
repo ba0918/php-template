@@ -2,9 +2,10 @@
 
 namespace ba0918\skeleton\test;
 
+use PHPUnit\Framework\TestCase;
 use ba0918\skeleton\Message;
 
-class MessageTest extends \PHPUnit_Framework_TestCase
+class MessageTest extends TestCase
 {
     private $message;
 
