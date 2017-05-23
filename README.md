@@ -1,19 +1,18 @@
 # PHP project boilerplate
+[![Build Status](https://travis-ci.org/ba0918/php-template.svg?branch=master)](https://travis-ci.org/ba0918/php-template)
 
-## Installation
+## Requirement
+- PHP7.0, PHP7.1
+- [Composer](https://getcomposer.org/)
+
+## Development
+### Setup
 
 ```
 composer install
-npm install
 ```
 
 ## Test
 ```
-npm test
-```
-
-## Watch
-
-```
-npm run watch
+composer run test
 ```
